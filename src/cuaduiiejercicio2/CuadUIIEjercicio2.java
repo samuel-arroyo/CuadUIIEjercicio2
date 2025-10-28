@@ -16,6 +16,8 @@ public class CuadUIIEjercicio2 {
     public static void main(String[] args) 
     {
         System.out.println("Bienvenido al mundo Java.");
+        System.out.println("Podras dar solucion a muchos problemas.");
+        
     }
     
 }
